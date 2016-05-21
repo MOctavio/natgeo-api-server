@@ -1,0 +1,23 @@
+{
+  "name": "natgeo-api",
+  "version": "0.0.0",
+  "description": "A sample Node.js app using Express to ser the natgeo-api",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "2.4.1",
+    "express": "4.13.3",
+    "nat-geo-api" : "git://github.com/MOctavio/Nat-Geo-Photo-of-the-Day-API.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
