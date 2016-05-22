@@ -11,4 +11,4 @@ npm install
 node app.js
 ```
 
-You can access it from other applications using a simpel GET or a JSONP. For a consumming sample application see [Photo of the Day - DEMO](https://github.com/MOctavio/photo-of-the-day-demo).
+You can access it from other applications using a simpel GET or a JSONP. For a consumming sample application see [Photo of the Day - demo](https://github.com/MOctavio/photo-of-the-day-demo).
